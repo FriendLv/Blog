@@ -15,11 +15,13 @@ hero:
       link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Vue
+    icon: 🧩
+    details: 知识记录
+  - title: React
+    icon: ⚓
+    details: 知识记录
+  - title: Golang
+    icon: 🏃
+    details: 知识记录
 ---
-
